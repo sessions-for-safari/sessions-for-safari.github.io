@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0981d23.chunk.css",
+    "main.js": "/static/js/main.3270c551.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.f6886161.js",
+    "static/css/2.740d69ab.chunk.css": "/static/css/2.740d69ab.chunk.css",
+    "static/js/2.85da15e9.chunk.js": "/static/js/2.85da15e9.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.99aa5d656b1e22dd556c36e9924584cd.js": "/precache-manifest.99aa5d656b1e22dd556c36e9924584cd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.85da15e9.chunk.js.LICENSE.txt": "/static/js/2.85da15e9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.b36bcf72.svg",
+    "static/media/app.png": "/static/media/app.c90fc004.png",
+    "static/media/app_drag.png": "/static/media/app_drag.b96c185a.png",
+    "static/media/app_search.png": "/static/media/app_search.bb02f9c6.png",
+    "static/media/extension.png": "/static/media/extension.daa5cac0.png",
+    "static/media/extension_search.png": "/static/media/extension_search.d96bdcd7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6886161.js",
+    "static/css/2.740d69ab.chunk.css",
+    "static/js/2.85da15e9.chunk.js",
+    "static/css/main.b0981d23.chunk.css",
+    "static/js/main.3270c551.chunk.js"
+  ]
+}
